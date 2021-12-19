@@ -3,7 +3,7 @@
 <br>
 
 
-<img src=>
+<img src=images\12th_man.jpg>
 
 
 <br></br>
@@ -53,10 +53,15 @@ The aim of this notebook is
 
  <h4><u> Objectives: </u></h4>
  <ul>
-  <li></li>
-  <li> </li>
+  <li>Choose a real-world phenomenon that can be measured and for which you could
+collect at least one-hundred data points across at least four different variables.</li>
+  <li>Investigate the types of variables involved, their likely distributions, and their
+  <li>Synthesise/simulate a data set as closely matching their properties as possible.</li>
+relationships with each other.</li>
+<li>Detail your research and implement the simulation in a Jupyter notebook – the
+data set itself can simply be displayed in an output cell within the notebook.</li>
   <li>A clear and informative READMe file.</li>
-  <li>A requirements.txt file.</li>
+ 
 </ul>
 
 <br>
@@ -128,7 +133,7 @@ Additionally, if you wish to view the notebook without having to install additio
 
 `data_sim.ipynb`
 
-[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)]()
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/kmcd14/ProgrammingDA-project/blob/main/data_sim.ipynb)
 
 <br> </br>
 
@@ -144,7 +149,7 @@ Additionally, if you wish to view the notebook without having to install additio
   - From the command line navigate to the folder you have cloned the repository to.
   - Type `jupyter lab`  or `jupyter notebook` into the command line and press enter to lauch the the jupyer interface.
 <br></br>
-  <img src='images/side_panel.PNG' width="200" height="300">
+  <img src= 'images\side_panel.PNG' width="200" height="300">
   <br></br>
 
   - In the side panel you will see all files in the respository as seen in the above image. 
