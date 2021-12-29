@@ -47,7 +47,7 @@ All notebooks and all other relevant files can be found at: https://github.com/k
 
 The notebook `data_sim.ipynb` is in relation to the matplotlib.pyplot assessment for the module. 
 
-The aim of this notebook is 
+The aim of this notebook is create a simulated data set by simulating a real-world phenomenon. I chose to investigate the sporting phenomenon of "home advantage". 
 
 <br>
 
@@ -65,6 +65,12 @@ data set itself can simply be displayed in an output cell within the notebook.</
 </ul>
 
 <br>
+
+I found this project intresting as it was the first time that I have generated a simulated data set. I can definitely see the benefits of generating your own data. It is much more time efficient than collecting and cleaning real world data, it also avoids having to consider GPDR regulations, it gets around the issue in instances where there is not enough data for certain topics and finally, it is much more cost effective!
+
+While there are a lot of positives, there are also downsides. It is difficult to truly recreate and mimick a real-world data set that has been collected. Models which use real world data will always be more accurate and reliable than a model which uses simulated data. There are so many sporting events which just could not be simply simulated because they are so surprising and magical; Greece winning Portugal in the to be crowned European champions in 2004, the competition was held in Portugal!
+
+To build on this project, I would like to try and simulate a football match from both teams perspectives. In the current simulated data set you only see the stats of one team per match played. 
 
 
 
@@ -223,11 +229,6 @@ Python has a vast and continuously growing library to choose from which makes it
 
 <br>
 
-<u><b>Scikit-Learn</b></u> is a library in python that provides many unsupervised and supervised learning algorithms. It is one of the most popular and best known packages to do so. The package which provides users with efficient versions of a large number of common algorithms used in machine learning. It also features helpers to fetch larger datasets commonly used by the machine learning community to benchmark algorithms on data that comes from the ‘real world’. https://scikit-learn.org/
-
-<br>
-
-<u><b>Seaborn</b></u> is based on matplotlib and is also used to create data visualisations. “It provides a high-level interface for drawing attractive and informative statistical graphics.” https://seaborn.pydata.org/
 
 <br>
 
@@ -253,8 +254,7 @@ Python has a vast and continuously growing library to choose from which makes it
 
 <h2><b><u><p id='credits'>Credits:</b></u></p></h2>
 
-
-
+The study <i>Home advantage during the COVID-19 pandemic: Analyses of European football leagues</i> by Dane McCarrick, Merim Bilalicb, Nick Neaveb and Sandy Wolfson. If it wasn't for their investigation into matches during Covid-19 restrictions and after supporters where allowed back into stadiums there wouldn't have been data which on the phenomenon of home advantage in football which could support the Home Advantage theory at the highest levels. 
 
 <br>
 
