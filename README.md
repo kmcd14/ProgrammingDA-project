@@ -254,7 +254,8 @@ Python has a vast and continuously growing library to choose from which makes it
 
 <h2><b><u><p id='credits'>Credits:</b></u></p></h2>
 
-The study <i>Home advantage during the COVID-19 pandemic: Analyses of European football leagues</i> by Dane McCarrick, Merim Bilalicb, Nick Neaveb and Sandy Wolfson. If it wasn't for their investigation into matches during Covid-19 restrictions and after supporters where allowed back into stadiums there wouldn't have been data which on the phenomenon of home advantage in football which could support the Home Advantage theory at the highest levels. 
+The study [<i>Home advantage during the COVID-19 pandemic: Analyses of European football leagues</i>](https://www.sciencedirect.com/science/article/pii/S146902922100131X) by Dane McCarrick, Merim Bilalicb, Nick Neaveb and Sandy Wolfson. If it wasn't for their investigation into matches during Covid-19 restrictions and after supporters where allowed back into stadiums there wouldn't have been data which on the phenomenon of home advantage in football which could support the Home Advantage theory at the highest levels. 
+
 
 <br>
 
