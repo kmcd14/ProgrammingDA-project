@@ -1,28 +1,34 @@
+<br></br>
 #  <b>PROGRAMMING FOR DATA ANALYSIS PROJECT</b>
 
 <br>
+
+<br></br>
 
 
 <img src=images\12th_man.jpg>
 
 
 <br></br>
-This respository contains Jupyter notebooks and other relevant files relating to the module assessment for Programming For Data Analysis.
+
+This repository contains Jupyter notebooks and other relevant files relating to the module assessment for Programming For Data Analysis.
  This `README.md` file contains the documentation for technologies and libraries used for the project. 
 
 
 All notebooks and all other relevant files can be found at: https://github.com/kmcd14/ProgrammingDA-project.
 
-<br>
+<br></br>
 
 ---
 
-<br>
+
+<br></br>
+
 <h2><u>Table of Contents</u></h2></summary>
 <br>
   <ol>
     <li><a href='#Description'> Description</a></li>
-    <li><a href="#Script">How To Get The Respoistory on Your Machine</a></li>
+    <li><a href="#Script">How To Get The Repository on Your Machine</a></li>
     <li><a href="#Jupyter">Running Jupyter Notebook</a></li>
     <li><a href='#Technologies_Used'>Technologies Used</a></li>
     <li><a href="#Libraries_Used">Libraries Used</a></li>
@@ -30,11 +36,11 @@ All notebooks and all other relevant files can be found at: https://github.com/k
     <li><a href="#contact">Contact</a></li>
     
   </ol>
-<br>
+
+<br></br>
 
 ---
 
----
 
 <br>
 <h2><b><u><p id='Description'> Description</b></u></p></h2>
@@ -45,9 +51,10 @@ All notebooks and all other relevant files can be found at: https://github.com/k
 
 <br>
 
-The notebook `data_sim.ipynb` is in relation to the matplotlib.pyplot assessment for the module. 
+The notebook `data_sim.ipynb` details the research that went into the simulation of the data set, as well as the data set. 
 
-The aim of this notebook is create a simulated data set by simulating a real-world phenomenon. I chose to investigate the sporting phenomenon of "home advantage". 
+The aim of this notebook is to create a simulated data set by simulating a real-world phenomenon. I chose to investigate the sporting phenomenon of "home advantage". 
+
 
 <br>
 
@@ -66,27 +73,23 @@ data set itself can simply be displayed in an output cell within the notebook.</
 
 <br>
 
-I found this project intresting as it was the first time that I have generated a simulated data set. I can definitely see the benefits of generating your own data. It is much more time efficient than collecting and cleaning real world data, it also avoids having to consider GPDR regulations, it gets around the issue in instances where there is not enough data for certain topics and finally, it is much more cost effective!
+I found this project interesting as it was the first time that I have generated a simulated data set. I can definitely see the benefits of generating your own data. It is much more time efficient than collecting and cleaning real world data, it also avoids having to consider GPDR regulations, it gets around the issue in instances where there is not enough data for certain topics and finally, it is much more cost effective!
 
-While there are a lot of positives, there are also downsides. It is difficult to truly recreate and mimick a real-world data set that has been collected. Models which use real world data will always be more accurate and reliable than a model which uses simulated data. There are so many sporting events which just could not be simply simulated because they are so surprising and magical; Greece winning Portugal in the to be crowned European champions in 2004, the competition was held in Portugal!
+While there are a lot of positives, there are also downsides. It is difficult to truly recreate and mimic a real-world data set that has been collected. Models which use real world data will always be more accurate and reliable than a model which uses simulated data. There are so many sporting events which just could not be simply simulated because they are so surprising and magical; Greece winning Portugal in the to be crowned European champions in 2004, the competition was held in Portugal!
 
-To build on this project, I would like to try and simulate a football match from both teams perspectives. In the current simulated data set you only see the stats of one team per match played. 
-
+To build on this project, I would like to try and simulate a football match from both teams’ perspectives. In the current simulated data set you only see the stats of one team per match played. 
 
 
 
 <br></br>
 
 
-<br>
-
-
 
 ---
 
-<br><br>
+<br></br>
 
-<h2><b><u><p id='Script'> How To Get The Respoistory on Your Machine</b></u></p></h2>
+<h2><b><u><p id='Script'> How To Get The Repository on Your Machine</b></u></p></h2>
 <br>
 <ol>
 
@@ -101,18 +104,20 @@ https://github.com/kmcd14/ProgrammingDA-project.
 <img src='images/repository.PNG'>
 
 <br>
-<li>Under clone, copy the repository address, as seen in the above picture, using either SSH or HTTPS</li>
-<li> Open your teminal.</li>
-<li> Naviagte to the location where you want to store the cloned directory.</li>
+
+li>Under clone, copy the repository address, as seen in the above picture, using either SSH or HTTPS</li>
+<li> Open your terminal.</li>
+<li> Navigate to the location where you want to store the cloned directory.</li>
 <li>In the terminal type the command:
 
 <br>
+
 
     $git clone git@github.com:kmcd14/ProrgrammingDA-project.git
 
 
 </li>
-<li>Press enter. The cloned reposistory is now on your machine.
+<li>Press enter. The cloned repository is now on your machine.
 </li>
 </ol>
 
@@ -130,9 +135,11 @@ Anaconda is the most widely used python distribution in data science fields as i
 
 <br>
 
-You can forgo downloading Anconda and install each package indvidually in the python shell. A full list of requirements for each notebook can be found in the `requirements.txt` file in this repoistory. Full details and links to each package used can be found further down in this README. 
+
+You can forgo downloading Anaconda and install each package individually in the python shell. A full list of requirements for each notebook can be found in the `requirements.txt` file in this repository. Full details and links to each package used can be found further down in this README. 
 
 <br>
+
 Additionally, if you wish to view the notebook without having to install additional requirements, please click on the following badges to be redirected in your browser. 
 
 <br> </br>
@@ -145,7 +152,6 @@ Additionally, if you wish to view the notebook without having to install additio
 
 
 <br>
-<br>
 
 ### Opening and Running The Notebook
 
@@ -153,26 +159,36 @@ Additionally, if you wish to view the notebook without having to install additio
 
   
   - From the command line navigate to the folder you have cloned the repository to.
-  - Type `jupyter lab`  or `jupyter notebook` into the command line and press enter to lauch the the jupyer interface.
+  - Type `jupyter lab` or `jupyter notebook` into the command line and press enter to launch the jupyer interface.
+
 <br></br>
+
   <img src= 'images\side_panel.PNG' width="200" height="300">
+ 
   <br></br>
 
-  - In the side panel you will see all files in the respository as seen in the above image. 
+  - In the side panel you will see all files in the repository as seen in the above image. 
   - Click on `data_sim` to open the notebook.
-  - To run the code in a cell hold down the `shift key` and press `enter` or click `Kernal` in the top toolbar and run all cells.
+  - To run the code in a cell, hold down the `shift key` and press `enter` or click `Kernel` in the top toolbar and run all cells.
   - To change between edit and read mode at any time press the `ESC key`.
-  - When you have finished, shut down the kernal via file > shut down in the browser, close the browser and press Press `Ctrl + C` on the command line to terminate the programme.
+  - When you have finished, shut down the kernel via file > shut down in the browser, close the browser and press `Ctrl + C` on the command line to terminate the programme.
+
 
 <br></br>
+
 Note: 
 
-If the jupyter interface doesn't auctomatically open in your browser try specifying the browser eg:
+If the jupyter interface doesn't automatically open in your browser try specifying the browser e.g.:
+
+<br>
 
       jupyter lab —browser=chrome
 
 
 Jupyter Notebook has a full troubleshooting guide which can be found:
+
+<br>
+
  https://jupyter-notebook.readthedocs.io/en/stable/troubleshooting.html
 <br></br>
 
@@ -182,11 +198,11 @@ Jupyter Notebook has a full troubleshooting guide which can be found:
 <br></br>
 <h2><b><u><p id='Technologies_Used'> Technologies Used:</b></u></p></h2>
 <br>
-<b><u>Google Docs:</u></b> an online word processor used to write my documentation before transfering into this README file. 
+<b><u>Google Docs:</u></b> an online word processor used to write my documentation before transferring into this README file. 
 
 https://www.google.com/docs/about/
 <br></br>
-<b><u>Anaconda:</u></b> the easiest way to perfrom Python data science machine learning on Windows, Linux and Mac OS. This script was created using Version 4.9.2. https://www.anaconda.com/distribution/
+<b><u>Anaconda:</u></b> the easiest way to perform Python data science machine learning on Windows, Linux and Mac OS. This script was created using Version 4.9.2. https://www.anaconda.com/distribution/
 <br></br>
 <b><u>Python:</u></b> an interpreted, object-oriented, high-level programming language with dynamic semantics. This script was created using Version 3.8.5. 
 https://www.python.org/
@@ -198,7 +214,6 @@ https://www.python.org/
 <b><u>NBViewer:</u></b> a web application which enables you enter the URL of a Jupyter Notebook file, renders that notebook as a static HTML web page, and gives you a stable link to that page which you can share with others. https://nbviewer.org/
 
 <br></br>
-<br></br>
 
 
 ---
@@ -206,18 +221,18 @@ https://www.python.org/
 <br></br>
 <h2><b><u><p id='Libraries_Used'>Libraries Used:</b></u></p></h2>
 
-Python has a vast and continuously growing library to choose from which makes it perfect for data analysis, such as Numpy and Pandas. It is a robust, flexible and efficient language which provides many solutions and avenues to approach and solve problems.
+
+Python has a vast and continuously growing library to choose from which makes it perfect for data analysis, such as `NumPy` and `Pandas`. It is a robust, flexible and efficient language which provides many solutions and avenues to approach and solve problems.
 
 <br>
 
-<b><u>A full list of each notebooks requirements can be found in the 
-`requirements.txt` file in the project reposistory. </u></b>
-
+<b><u>A full list of each notebook’s requirements can be found in the 
+`requirements.txt` file in the project repository. </u></b>
 
 
 <br>
 
-<u><b>Numpy</b></u> is a Python library used for working with arrays. It produces a narray object. Numpy arrays are faster and more efficient than using python lists. It does this by storing arrays in one place in memory, so they can be accessed and manipulated quickly http://www.numpy.org/
+<u><b>Numpy</b></u> is a Python library used for working with arrays. It produces a narray object. NumPy arrays are faster and more efficient than using python lists. It does this by storing arrays in one place in memory, so they can be accessed and manipulated quickly http://www.numpy.org/
 
 <br>
 
@@ -225,20 +240,17 @@ Python has a vast and continuously growing library to choose from which makes it
 
 <br>
 
-<u><b>Pandas</b></u> is a data manipulation tool built on Numpy. It’s key structure is the dataframe. You can think of a dataframe as a spreadsheet or table but, dataframes as are more efficient and powerful and are an integral part of Python and Numpy. Pandas will allow us to select specific rows and columns within the dataframe. https://pandas.pydata.org/
+<u><b>Pandas</b></u> is a data manipulation tool built on Numpy. Its key structure is the dataframe. You can think of a dataframe as a spreadsheet or table but, dataframes as are more efficient and powerful and are an integral part of Python and Numpy. Pandas will allow us to select specific rows and columns within the dataframe. https://pandas.pydata.org/
 
 <br>
 
-
 <br>
-
-
 
 
 
 <br>
 
-<u><b>If your system does not have these libaries installed enter the below command from the command line: </b></u>
+<u><b>If your system does not have these libraries installed enter the below command from the command line: </b></u>
 
 <br>
 
@@ -254,7 +266,7 @@ Python has a vast and continuously growing library to choose from which makes it
 
 <h2><b><u><p id='credits'>Credits:</b></u></p></h2>
 
-The study [<i>Home advantage during the COVID-19 pandemic: Analyses of European football leagues</i>](https://www.sciencedirect.com/science/article/pii/S146902922100131X) by Dane McCarrick, Merim Bilalicb, Nick Neaveb and Sandy Wolfson. If it wasn't for their investigation into matches during Covid-19 restrictions and after supporters where allowed back into stadiums there wouldn't have been data which on the phenomenon of home advantage in football which could support the Home Advantage theory at the highest levels. 
+The study [<i>Home advantage during the COVID-19 pandemic: Analyses of European football leagues</i>](https://www.sciencedirect.com/science/article/pii/S146902922100131X) by Dane McCarrick, Merim Bilalicb, Nick Neaveb and Sandy Wolfson. If it wasn't for their investigation into matches during Covid-19 restrictions and after supporters were allowed back into stadiums there wouldn't have been data which on the phenomenon of home advantage in football which could support the Home Advantage theory at the highest levels. 
 
 
 <br>
